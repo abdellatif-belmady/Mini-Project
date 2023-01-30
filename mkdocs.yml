@@ -126,8 +126,8 @@ extra:
       link: https://github.com/abdellatif-belmady
     # - icon: fontawesome/brands/linkedIn
     #   link: https://www.linkedin.com/in/abdellatif-belmady-ab999a133/
-#     - icon: fontawesome/brands/facebook
-#       link: https://www.facebook.com/abdellatif.belmady
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/abdellatif.belmady
 #     - icon: fontawesome/brands/youtube
 #       link: https://www.youtube.com/@otherways8368/featured
 #     - icon: fontawesome/brands/instagram
